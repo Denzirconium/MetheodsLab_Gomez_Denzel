@@ -1,7 +1,7 @@
 # MetheodsLab_Gomez_Denzel
 # Methods Lab
 
-**Author:** Zhel  
+**Author:** Denzel Gomez
 **Language:** Java
 
 ## About the Project
