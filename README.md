@@ -47,9 +47,3 @@ Enter a number to check prime: 7
 2. Run the program.
 3. Enter the required inputs.
 4. Check the results in the output console.
-
-## Files
-
-- `MethodsLab.java` – Contains all the Java tasks.
-- `README.md` – Project description and sample output.
-- `screenshots/` – Contains screenshots of the program outputs.
