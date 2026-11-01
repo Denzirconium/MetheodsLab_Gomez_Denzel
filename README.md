@@ -2,6 +2,7 @@
 # Methods Lab
 
 **Author:** Denzel Gomez
+
 **Language:** Java
 
 ## About the Project
